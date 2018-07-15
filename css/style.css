@@ -25,6 +25,19 @@ body {
 	margin-right: 13px;
 }
 
+.nav-but {
+	background-color: #4aacc5;
+	border: 0px;
+
+}
+
+.menu-icon {
+	width: 62px;
+	height: 46px;
+	padding: 10px;
+}
+
+
 .page-header_logo {
 	display: block;
 	text-align: center;
@@ -52,7 +65,6 @@ body {
 	text-align: center;
 	justify-content: center;
 	background-color: #d9d9d9;
-
 }
 
 .nav-panel {
@@ -90,7 +102,7 @@ body {
 
 	.page-header_logo {
 		text-align: left;
-		padding-left: 30px;
+		padding-left: 0px;
 
 	}
 
@@ -106,4 +118,9 @@ body {
 
 	.right-nav {
 		display: block;
+	}
+	.page-header_logo {
+		text-align: left;
+		padding-left: 30px;
+
 	}
